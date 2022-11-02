@@ -182,3 +182,14 @@ h3 {
     padding-left: 5%;
     padding-right: 5%;
 }
+
+.ps-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 20px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
