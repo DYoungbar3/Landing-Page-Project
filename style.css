@@ -75,3 +75,13 @@ button {
     padding: 6px;
     border: none;
 }
+
+.info {
+    background-color: white;
+}
+
+.box {
+    width: 100px;
+    height: 80px;
+    border-color: #3882f6;
+    border: 2px;
